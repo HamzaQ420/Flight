@@ -3,7 +3,7 @@ A Java package that can be used to track flights one airport to another. Include
 
 # Use
 To use the package:
-- Create a new file in your Java project's directory titled "Flight.java", or download the file and place it in your directory.
+- Create a new file in your Java project's directory titled "Flight.java", or download the file and place it in your directory, ensure that the airports.txt file is also in the same directory.
 - Read the documentation section of this readme.
 
 # Documentation
